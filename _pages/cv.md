@@ -11,30 +11,51 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. at School of Physical and Electronic Engineering, Shanxi University, 2020
+* M.S. at Institute for Quantum Science and Engineering, Southern University of Science and Technology, 2024 (expected)
 
-Work experience
+GPA
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+3.65 / 4.00
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research experience
+======
+* 2021-today: 
+  * Advisor: He Yu
+  * Institute of Quantum Science and Engineering, Southern University of Science and Technology
+  * STM Laboratory of silicon-based quantum dot Quantum Computing research group
+  * The current research project is quantum simulation of multibody SSH model based on STM hydrogen lithography. The completed topics include segregation of P and B in Si, low temperature Si molecular beam epitaxy, single electron transistors with stable transport properties, and so on. Participated in the whole process from platform construction to maturity, familiar with STM and MBE combined ultra-high vacuum system.
+
+* 2021: 
+  * Advisor: Zhang Jianjun
+  * Institute of Physics, Chinese Academy of Sciences
+  * N09 research group
+  * The molecular beam epitaxy of Group IV elements is studied. The main research topic is to realize the controlled in-plane ordered Si/Ge nanowires epitaxial growth utilizing groove etching.
+ 
+* 2020:
+  * Advisor: Li Weidong
+  * Institute of theoretical physics, Shanxi University
+  * Theoretical research on Rabi oscillation and Rabi spectrum was carried out, and the graduation thesis completed based on this topic was awarded as the outstanding undergraduate graduation thesis of Shanxi University in 2020.
+
+* 2018-2019:
+  * Independent research on the subject of laser medical image segmentation. Participated in the 14th National Laser Technology and Optoelectronics Academic Conference and 2018 China Optics Ten Progress Conference, and gave an oral report at the conference. As the first author of the paper Laser Medical Image Processing Based on Neighborhood Concerned Gaussian Mixture Model.
   
-Skills
+Honor&Awards:
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2017: University excellent student leader
+   
+* 2018:
+  * National second prize of the Chinese Mathematics Competitions 
+  * National third prize of China Undergraduate Physics Tournament 
+  * National second prize of China Undergraduate Mathematical Contest in Modelling
+    
+* 2019
+  * Provincial outstanding prize of “Challenge Cup” National College Student Curricular Academic Science and Technology Works Competition
+  * National third prize of Interdisciplinary Contest in Modeling Certificate of Achievement
+    
+* 2020
+  * National third prize of Interdisciplinary Contest in Modeling Certificate of Achievement
+  * University excellent graduation thesis
 
 Publications
 ======
