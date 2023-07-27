@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,84 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a 24th master's degree student engaged in a joint program between the Southern University of Science and Technology (https://www.sustech.edu.cn/en/) and the Institute of Physics, Chinese Academy of Sciences (http://english.iop.cas.cn/). Under the guidance of esteemed researcher He Yu, I have dedicated my studies to silicon-based quantum dots, primarily focused on utilizing scanning tunneling microscopy (STM) for related research. I completed my undergraduate studies in the Department of Physics at Shanxi University, where I was mentored by Professor Li Weidong. After my graduation, I had the opportunity to study the molecular beam epitaxy (MBE) growth of silicon-germanium nanowires, under the guidance of the researcher Zhang Jianjun from the Institute of Physics, Chinese Academy of Sciences. Building upon this foundation, I continued my academic journey at the Southern University of Science and Technology, delving into the realm of quantum simulation based on STM hydrogen lithography, under the mentorship of researcher He Yu. At present, my research focus revolves around the quantum simulation of the multi-body Su-Schrieffer-Heeger (SSH) model, a topic that continues to captivate my intellectual curiosity.
 
-A data-driven personal website
+Research Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Quantum Simulation: SSH model, critical phase...
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Laboratory Equipment: Variable and low temperature STM and MBE ultrahigh vacuum interconnection systems
 
-Getting started
+
+Research Experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+In 2021, I embarked on my postgraduate study and research journey, having achieved the top score in the examination for admission. I was privileged to be part of Group N09 at the renowned Institute of Physic, CAS, where I focused on the growth of in-plane ordered Si/Ge nanowires using molecular beam epitaxy.
+
+During my first semester in graduate school, I diligently pursued a wide range of professional courses, resulting in a commendable GPA of 3.74. Additionally, I had the opportunity to work under the guidance of Professor Wang Gan from the Southern University of Science and Technology. Despite the challenges posed by the ongoing epidemic, I managed to acquire valuable hands-on experience in operating STM and MBE ultrahigh vacuum interconnection systems while studying the interfacial superconductivity of iron telluride heterojunctions.
+
+In the subsequent semester, alongside my continued coursework finished with an overall GPA of 3.65, I immersed myself in the STM laboratory dedicated to silicon-based quantum dot quantum computing. Here, I honed my skills in the fundamental operations of STM hydrogen lithography for silicon-based samples. This involved every crucial step, ranging from sample degas, flash, H cover preparation and tip electrochemical etching to STM hydrogen lithography, dosing, incorporation, and MBE encapsulation.
+
+Currently, the laboratory boasts two independent UHV systems: the variable temperature VT STM and the low temperature INFINITY STM. Furthermore, we anticipate the addition of two new STM members in the near future.
+
+At the initial stage of the platform construction, I actively participated in every aspect, including component installation, troubleshooting, and equipment maintenance. Through numerous rounds of sample iteration, we eventually developed a more advanced processing technology and experimental conditions. However, this journey was not without its challenges. I encountered difficulties such as substrate contamination and the adverse effects of epitaxial conditions on the transport properties of the devices. Each problem required extensive experimentation, comparison, and technical improvements spanning several months or even longer. It was during this process that my experimental thinking and innovation skills were truly put to the test. For instance, to address the issue of device leakage caused by the partial impact of the high-energy electron beam from the EBVV on the sample, we emulated and designed some charge deflectors. These deflectors effectively redirected the charge away from the target direction, safeguarding the transport properties of the sample.
+
+After the completion of initial exploratory work and the establishment of sound experimental conditions, I embarked on further research focusing on the following subjects to advance scientific understanding in my field:
+
+1.Investigating the impact of different incorporation and annealing conditions, as well as the presence or absence of a locking layer, on the segregation of P and B and the conductivity of samples.
+
+2.Realizing low-temperature homoepitaxy of silicon, aiming at achieving exceptional surface quality and atomic-level flatness.
+
+3.Conducting thorough verification of conductivity and leakage in tunnel junctions with varying gap widths, aiming at optimizing the performance of more sophisticated devices.
+
+4.Developing a single electron transistor with highly steady transport properties.
+
+5.Exploring the properties of a single electron pump with multi-quantum dot transport characteristics.
+
+6.Advancing the integration of 3D top electrode alignment techniques, enabling precise energy level control for various devices.
+
+7. Utilizing STM hydrogen lithography technology for quantum simulation of the SSH model.
+
+8.Realization experimentally of the critical phase utilizing the silicon-based quantum dot system.
+
+To comprehensively enhance my experimental proficiency, I actively engaged in learning and successfully completed application tests involving various micro and nano machineries, such as the step profiler, lithography machine, laser direct writing, and SEM, at the micro and nano machining center.
+
+Additionally, alongside my experimental research, I devoted considerable effort to acquiring and honing my skills in Python programming, enabling calculations for simple quantum mechanics problems. For instance, I successfully calculated the energy spectrum of the static SSH model, a significant model for topological insulators, and further elucidated the quasi-energy spectrum and transport properties of the dynamic AC-driven SSH model.
+
+Recent works also include the completion of a chapter on the simulation of one-dimensional chains using STM technology in the atomic manufacturing textbook edited by Professor Song Fengqi of Nanjing University. 
+
+In 2016, I was admitted to the School of Mathematical Sciences at Shanxi University, achieving the highest score in the college entrance examination. As an active member of the class committee, I diligently organized and participated in various student organizations, community activities, and class events. By fostering a positive, optimistic, united, and friendly class culture, I successfully cultivated collective cohesion and established a conducive academic atmosphere for students' study and daily lives. Consequently, I was honored with the title of "Excellent Student Leader."
+
+In the following year, I decided to switch my major to the School of Physical and Electronic Engineering, ranking fourth out of 198 students in the School of Mathematical Sciences. Under the guidance of Professor Xiao Lian-Tuan, I embarked on an undergraduate scientific research project titled "Real-time Single Molecule Dynamics Information Extraction based on Quantum Coherence Modulation and FPGA."
+In August 2018, I represented our school in the 9th Chinese College Students Physics Academic Competition, where I achieved the remarkable feat of securing the third prize. In September 2018, I participated in the 10th National Mathematics Competition for College Students (Non-Mathematics) and earned the second prize. In October 2018, I competed in the National College Students Mathematical Contest in Modeling, clinching the second prize as well.
+
+In March 2019, I had the privilege to present an oral report entitled "Laser Medical Image Processing based on Neighborhood Concerned Gaussian Mixture Model" at the 14th National Laser Technology and Optoelectronics Academic Conference and the 2018 China Optics Ten Progress Conference. Meanwhile, I published this paper as the first author. In this research, we proposed a novel approach to laser medical image segmentation utilizing the Neighborhood Concerned Gaussian mixture model, addressing its limitations in terms of segmentation accuracy and noise resistance.
+
+In July 2019, I participated in the 16th Provincial "Challenge Cup" Extra-curricular Academic Science and Technology Works Competition for College Students. Presenting my personal project, I was honored to be awarded the grand prize.
+
+Finally, under the meticulous guidance of Professor Li Weidong, I successfully culminated my undergraduate journey by completing my graduation thesis on the topic of "Theoretical Research on Rabi Oscillation and Rabi Spectrum." My thesis underwent rigorous examination and ultimately garnered recognition as an excellent graduation thesis.
+
+"The road ahead is long, as I diligently explore every avenue." Having just embarked on the path of scientific research, I am prepared to face both the smooth and arduous obstacles that lie ahead. Throughout this journey, I will forever cherish the enthusiasm of my youth and the fervor in pursuing my ideals. Aiming high, yet firmly grounded, I remain committed to charting my future course.
 
 Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
+#Create content & metadata
 ------
 For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
+#**Markdown generator**
 
 I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
 ) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
+#How to edit your site's GitHub repository
 ------
 Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
+#For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
