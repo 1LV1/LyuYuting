@@ -11,9 +11,10 @@ title                    : "Yuting Lyu / Academic Homepage"
 title_separator          : "-"
 name                     : &name "Yuting Lyu"
 description              : &description "Graduate Student of Institute for Quantum Science and Engineering, Southern University of Science and Technology"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#https://academicpages.github.io # the base hostname & protocol for your site e.g. 
+url                      : "https://1LV1.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "1LV1/1LV1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +81,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuting Lyu 吕宇婷"
+  name             : "Yuting Lyu"
+                      "吕宇婷"
   avatar           : "photo.png"
   bio              : "Graduate Student of Institute for Quantum Science and Engineering, Southern University of Science and Technology"
   location         : "Shenzhen, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "1ytlyu1@gmail.com"
-  #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  #researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
@@ -106,10 +108,10 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  #stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  #twitter          : #"replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
