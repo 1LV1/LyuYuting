@@ -19,7 +19,7 @@ Research Interests
 
 Quantum Simulation: SSH model, critical phase...
 
-Laboratory Equipment: Variable and low temperature STM and MBE ultrahigh vacuum interconnection systems
+Laboratory Equipment: Variable and low temperature STM ultrahigh vacuum systems combined with MBE
 
 
 Research Experience
