@@ -18,7 +18,7 @@ Research Interests
 
 Quantum Simulation: Su-Schrieffer-Heeger model, critical phase...
 
-Laboratory Equipment: Variable and low temperature STM ultrahigh vacuum systems combined with MBE
+Laboratory Equipment: Variable and low-temperature STM ultrahigh vacuum systems combined with MBE
 
 More Information
 ======
@@ -26,10 +26,10 @@ More Information
 You can find my CV here: [Yuting Lyu's Curriculum Vitae](https://1lv1.github.io/cv/)
 
 
-You can find my Personal Statement here:[Yuting Lyu's Personal Statement](https://1lv1.github.io/personal-statement/)
+You can find my Personal Statement here: [Yuting Lyu's Personal Statement](https://1lv1.github.io/personal-statement/)
 
 You can contact me with:
   * Tel: +(86) 178-3620-5462
   * E-mail: [ytlu_sxu@163.com](mailto:ytlu_sxu@163.com)
-  * Wechat: physicslyt
+  * WeChat: physicslyt
 
