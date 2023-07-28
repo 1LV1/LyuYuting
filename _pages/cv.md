@@ -43,19 +43,18 @@ Research experience
 Honor&Awards:
 ======
 * 2017:
-  * University excellent student leader
+  * University Excellent Student Leader
    
 * 2018:
-  * National second prize of the Chinese Mathematics Competitions 
-  * National third prize of China Undergraduate Physics Tournament 
-  * National second prize of China Undergraduate Mathematical Contest in Modelling
+  * National Second Prize of Chinese Mathematics Competitions 
+  * National Third Prize of China Undergraduate Physics Tournament 
+  * National Second Prize of National Undergraduate Mathematical Contest in Modeling
     
 * 2019
-  * Provincial outstanding prize of “Challenge Cup” National College Student Curricular Academic Science and Technology Works Competition
-  * National third prize of Interdisciplinary Contest in Modeling Certificate of Achievement
+  * Provincial Outstanding Prize of the 16th "Challenge Cup" Undergraduate Extracurricular Academic Science and Technology Work Contest
+  * National Third Prize of Mathematical Contest in Modeling (MCM)
     
 * 2020
-  * National third prize of Interdisciplinary Contest in Modeling Certificate of Achievement
   * University excellent graduation thesis
 
 Publications
@@ -64,12 +63,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Contact Me
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Tel: +(86) 178-3620-5462 
+* E-mail: ytlu_sxu@163.com
