@@ -32,16 +32,16 @@ comments:
   #  num_posts            : # 5 (default)
   #  colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email 1ytlyu1@gmail.com', 'url', 'message']
+  allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email 1ytlyu1@gmail.com', 'message']
+  requiredFields         : ['name', 'email', 'message']
   transforms:
-    email 1ytlyu1@gmail.com: "md5"
+    email                : "md5"
   generatedFields:
     date:
       type               : "date"
@@ -88,7 +88,7 @@ author:
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email 1ytlyu1@gmail.com            : "1ytlyu1@gmail.com"
+  email            : "1ytlyu1@gmail.com"
   #researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -210,15 +210,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
