@@ -1,10 +1,10 @@
 ---
-permalink: /personal statement/
+permalink: /personal-statement/
 title: "Personal Statement"
 author_profile: true
 redirect_from: 
   - /md/
-  - /personal statement.html
+  - /personal-statement.html
 ---
 
 I am a 24th master's degree student engaged in a joint program between Southern University of Science and Technology and Institute of Physics, Chinese Academy of Sciences. 
