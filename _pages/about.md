@@ -16,7 +16,7 @@ Advised by PI [He Yu](https://sustech.edu.cn/zh/faculties/heyu.html) from Instit
 Research Interests
 ======
 
-Quantum Simulation: SSH model, critical phase...
+Quantum Simulation: Su-Schrieffer-Heeger model, critical phase...
 
 Laboratory Equipment: Variable and low temperature STM ultrahigh vacuum systems combined with MBE
 
