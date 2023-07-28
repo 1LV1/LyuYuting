@@ -20,7 +20,7 @@ GPA
 
 Research experience
 ======
-* 2021-today: 
+* 2021-now: 
   * Advisor: He Yu
   * Institute of Quantum Science and Engineering, Southern University of Science and Technology
   * STM Laboratory of silicon-based quantum dot Quantum Computing research group
