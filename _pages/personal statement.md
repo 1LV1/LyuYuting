@@ -7,11 +7,11 @@ redirect_from:
   - /personal statement.html
 ---
 
-I am a 24th master's degree student engaged in a joint program between [the Southern University of Science and Technology](https://www.sustech.edu.cn/en/) and [the Institute of Physics, Chinese Academy of Sciences](http://english.iop.cas.cn/). 
+I am a 24th master's degree student engaged in a joint program between Southern University of Science and Technology and Institute of Physics, Chinese Academy of Sciences. 
 
-Under the guidance of PI [He Yu](https://sustech.edu.cn/zh/faculties/heyu.html), I have dedicated my studies to silicon-based quantum dots, primarily focused on related research utilizing scanning tunneling microscopy (STM). 
+Under the guidance of PI He Yu, I have dedicated my studies to silicon-based quantum dots, primarily focused on related research utilizing scanning tunneling microscopy (STM). 
 
-I completed my undergraduate studies in the Department of Physics at [Shanxi University](https://english.sxu.edu.cn/), where I was mentored by Professor Li Weidong. After my graduation, I had the opportunity to study the molecular beam epitaxy (MBE) growth of controlled in-plane Si/Ge nanowires, under the guidance of PI [Zhang Jianjun](http://edu.iphy.ac.cn/moreintro.php?id=2212) from the Institute of Physics, CAS. Building upon this foundation, I continued my academic journey at the Southern University of Science and Technology, delving into the realm of quantum simulation based on STM hydrogen lithography, under the mentorship of PI He Yu. At present, my research focus revolves around the quantum simulation of the multi-body Su-Schrieffer-Heeger (SSH) model, a topic that continues to captivate my intellectual curiosity.
+I completed my undergraduate studies in the Department of Physics at Shanxi University, where I was mentored by Professor Li Weidong. After my graduation, I had the opportunity to study the molecular beam epitaxy (MBE) growth of controlled in-plane Si/Ge nanowires, under the guidance of PI Zhang Jianjun from the Institute of Physics, CAS. Building upon this foundation, I continued my academic journey at the Southern University of Science and Technology, delving into the realm of quantum simulation based on STM hydrogen lithography, under the mentorship of PI He Yu. At present, my research focus revolves around the quantum simulation of the multi-body Su-Schrieffer-Heeger (SSH) model, a topic that continues to captivate my intellectual curiosity.
 
 In 2021, I embarked on my postgraduate study and research journey, having achieved the top score in the examination for admission. I was privileged to be part of Group N09 at the renowned Institute of Physic, CAS, where I focused on the growth of in-plane ordered Si/Ge nanowires using molecular beam epitaxy.
 
