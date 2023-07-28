@@ -16,7 +16,7 @@ Education
 
 GPA
 ======
-3.65 / 4.00
+* 3.65 / 4.00
 
 Research experience
 ======
@@ -42,7 +42,8 @@ Research experience
   
 Honor&Awards:
 ======
-* 2017: University excellent student leader
+* 2017:
+  * University excellent student leader
    
 * 2018:
   * National second prize of the Chinese Mathematics Competitions 
