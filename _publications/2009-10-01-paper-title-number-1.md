@@ -13,5 +13,3 @@ In this research, we proposed a novel approach to laser medical image segmentati
 [Download paper here](https://doi.org/10.1117/12.2533924)
 
 Recommended citation: Yuting Lv "Laser medical image processing based on neighborhood concerning Gaussian mixture model", Proc. SPIE 11170, 14th National Conference on Laser Technology and Optoelectronics (LTO 2019), 111703K (17 May 2019); [https://doi.org/10.1117/12.2533924](https://doi.org/10.1117/12.2533924)
-
-Proc. SPIE 11170. 14th National Conference on Laser Technology and Optoelectronics (LTO 2019). 111703K, 2019.05(17 May 2019)
