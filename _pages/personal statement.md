@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
+permalink: /personal statement/
 title: "Personal Statement"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /personal statement.html
 ---
 
 I am a 24th master's degree student engaged in a joint program between [the Southern University of Science and Technology](https://www.sustech.edu.cn/en/) and [the Institute of Physics, Chinese Academy of Sciences](http://english.iop.cas.cn/). 
