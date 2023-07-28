@@ -21,6 +21,11 @@ Quantum Simulation: SSH model, critical phase...
 
 Laboratory Equipment: Variable and low temperature STM ultrahigh vacuum systems combined with MBE
 
+Research Experience
+======
+
+You can find my CV here: [CV](https://1lv1.github.io/cv/)
+[Email](1ytlyu1@gmail.com) / Wechat
 
 Research Experience
 ======
