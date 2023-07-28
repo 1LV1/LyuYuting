@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "Laser medical image processing based on neighborhood concerning Gaussian mixture model"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'In this research, we proposed a novel approach to laser medical image segmentation utilizing the Neighborhood Concerned Gaussian mixture model, addressing its limitations in terms of segmentation accuracy and noise resistance.'
+date: 2019-05-17
+venue: '17 May'
+paperurl: 'https://doi.org/10.1117/12.2533924'
+citation: 'Yuting Lv "Laser medical image processing based on neighborhood concerning Gaussian mixture model", Proc. SPIE 11170, 14th National Conference on Laser Technology and Optoelectronics (LTO 2019), 111703K (17 May 2019)'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+In this research, we proposed a novel approach to laser medical image segmentation utilizing the Neighborhood Concerned Gaussian mixture model, addressing its limitations in terms of segmentation accuracy and noise resistance.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://doi.org/10.1117/12.2533924)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Yuting Lv "Laser medical image processing based on neighborhood concerning Gaussian mixture model", Proc. SPIE 11170, 14th National Conference on Laser Technology and Optoelectronics (LTO 2019), 111703K (17 May 2019); [https://doi.org/10.1117/12.2533924](https://doi.org/10.1117/12.2533924)
+
+Proc. SPIE 11170. 14th National Conference on Laser Technology and Optoelectronics (LTO 2019). 111703K, 2019.05(17 May 2019)
