@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a 24th master's degree student engaged in a joint program between [the Southern University of Science and Technology](https://www.sustech.edu.cn/en/) and [the Institute of Physics, Chinese Academy of Sciences](http://english.iop.cas.cn/). 
+I am a 24th master's degree student engaged in a joint program between [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) and [Institute of Physics, Chinese Academy of Sciences](http://english.iop.cas.cn/). 
 
-Advised by PI [He Yu](https://sustech.edu.cn/zh/faculties/heyu.html) from the Institute for Quantum Science and Engineering, Sustech, I have dedicated my studies to silicon-based quantum dots, primarily focused on quantum simulation utilizing scanning tunneling microscopy (STM). Advised by PI [Zhang Jianjun](http://edu.iphy.ac.cn/moreintro.php?id=2212) from the Institute of Physics, CAS, I had the opportunity to study the molecular beam epitaxy (MBE) growth of controlled in-plane Si/Ge nanowires.
+Advised by PI [He Yu](https://sustech.edu.cn/zh/faculties/heyu.html) from Institute for Quantum Science and Engineering, Sustech, I have dedicated my studies to silicon-based quantum dots, primarily focused on quantum simulation utilizing scanning tunneling microscopy (STM). Advised by PI [Zhang Jianjun](http://edu.iphy.ac.cn/moreintro.php?id=2212) from Institute of Physics, CAS, I had the opportunity to study the molecular beam epitaxy (MBE) growth of controlled in-plane Si/Ge nanowires.
 
 
 Research Interests
@@ -30,6 +30,6 @@ You can find my Personal Statement here:[Yuting Lyu's Personal Statement](https:
 
 You can contact me with:
   * Tel: +(86) 178-3620-5462
-  * E-mail: ytlu_sxu@163.com
+  * E-mail: [ytlu_sxu@163.com](mailto:ytlu_sxu@163.com)
   * Wechat: physicslyt
 
