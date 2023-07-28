@@ -24,9 +24,9 @@ More Information
 ======
 
 You can find my CV here: [Yuting Lyu's Curriculum Vitae](https://1lv1.github.io/cv/)
-[Email](1ytlyu1@gmail.com) 
 
-You can find my Personal Statement here:[Yuting Lyu's Personal Statement](https://1lv1.github.io/markdown/)
+
+You can find my Personal Statement here:[Yuting Lyu's Personal Statement](https://1lv1.github.io/personal-statement/)
 
 You can contact me with:
   * Tel: +(86) 178-3620-5462
