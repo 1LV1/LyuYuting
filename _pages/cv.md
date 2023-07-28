@@ -40,7 +40,7 @@ Research experience
 * 2018-2019:
   * Independent research on the subject of laser medical image segmentation. Participated in the 14th National Laser Technology and Optoelectronics Academic Conference and 2018 China Optics Ten Progress Conference, and gave an oral report at the conference.
   
-Honor&Awards:
+Honor & Awards:
 ======
 * 2017:
   * University Excellent Student Leader
