@@ -55,7 +55,7 @@ Honor&Awards:
   * National Third Prize of Mathematical Contest in Modeling (MCM)
     
 * 2020
-  * University excellent graduation thesis
+  * University Excellent Graduation Thesis
 
 Publications
 ======
