@@ -57,7 +57,7 @@ Honor & Awards:
 * 2020
   * University Excellent Graduation Thesis
 
-Publications
+Publication
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
