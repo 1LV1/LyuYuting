@@ -58,7 +58,7 @@ Honor & Awards:
   * University Excellent Graduation Thesis
     
 * 2021-now
-  * The highest grades in each semester evaluation of research work.
+  * The highest grades in research work evaluations every semester.
     
 Publication
 ======
