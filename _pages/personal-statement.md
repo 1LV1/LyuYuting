@@ -41,14 +41,13 @@ After the completion of initial exploratory work and the establishment of sound 
 
   * Realization experimentally of the critical phase utilizing the silicon-based quantum dot system.
 
-To comprehensively enhance my experimental proficiency, I actively engaged in learning and successfully completed application tests involving various micro and nano machineries, such as the step profiler, lithography machine, laser direct writing, and SEM, at the micro and nano machining center.
+To comprehensively enhance my experimental proficiency, I actively engaged in learning and successfully completed application tests involving various micro and nano machinery, such as the step profiler, lithography machine, laser direct writing, and SEM, at the micro and nano machining center.
 
 Additionally, alongside my experimental research, I devoted considerable effort to acquiring and honing my skills in Python programming, enabling calculations for simple quantum mechanics problems. For instance, I successfully calculated the energy spectrum of the static SSH model, a significant model for topological insulators, and further elucidated the quasi-energy spectrum and transport properties of the dynamic AC-driven SSH model. Recent works also include the completion of a chapter on the simulation of one-dimensional spin chains using STM technology in the atomic manufacturing textbook edited by Professor Song Fengqi of Nanjing University. 
 
 
 Undergraduate Education
 -------------------------------
-
 In 2016, I was admitted to the School of Mathematical Sciences at Shanxi University, achieving the highest score in the college entrance examination. As an active member of the class committee, I diligently organized and participated in various student organizations, community activities, and class events. By fostering a positive, optimistic, united, and friendly class culture, I successfully cultivated collective cohesion and established a conducive academic atmosphere for classmates' study and daily lives. Consequently, I was honored with the title of "Excellent Student Leader."
 
 In the following year, though ranking 4th out of 198 students in the School of Mathematical Sciences, I decided to switch my major to the School of Physical and Electronic Engineering. Then, under the guidance of Prof. Xiao Liantuan, I embarked on an undergraduate scientific research project titled "Real-time Single Molecule Dynamics Information Extraction based on Quantum Coherence Modulation and FPGA."
@@ -58,5 +57,6 @@ In March 2019, I had the privilege to present an oral report entitled "Laser Med
 
 Finally, under the meticulous guidance of Prof. Li Weidong, I successfully culminated my undergraduate journey by completing my graduation thesis on the topic of "Theoretical Research on Rabi Oscillation and Rabi Spectrum." My thesis underwent rigorous examination and ultimately garnered recognition as an excellent graduation thesis.
 
-
+Outlook
+-----------
 I'm embarking on a path of scientific research, ready to tackle any obstacles that come my way. The road ahead is long, but I'm dedicated to exploring it. I'm enthusiastic about pursuing my ideals, and I will always cherish the vigor of my youth. I'm aiming high, but staying grounded as I chart my future course.
