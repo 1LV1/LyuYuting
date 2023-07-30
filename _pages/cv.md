@@ -24,7 +24,7 @@ Research experience
   * Advisor: He Yu
   * Institute of Quantum Science and Engineering, Southern University of Science and Technology
   * STM Laboratory of silicon-based quantum dot Quantum Computing research group
-  * The current research project is quantum simulation of multibody SSH model based on STM hydrogen lithography. The completed topics include single electron transistors with stable transport properties, single electron pump with multi-quantum dot transport characteristics, the integration of 3D top electrode alignment techniques, and so on. Participated in the whole process from platform construction to maturity, familiar with STM and MBE combined ultra-high vacuum system.
+  * The current research project is the quantum simulation of a multibody SSH model based on STM hydrogen lithography. The completed topics include single electron transistors with stable transport properties, single electron pump with multi-quantum dot transport characteristics, the integration of 3D top electrode alignment techniques, and so on. Participated in the whole process from platform construction to maturity, familiar with STM and MBE combined ultra-high vacuum system.
 
 * 2021: 
   * Advisor: Zhang Jianjun
@@ -56,7 +56,10 @@ Honor & Awards:
     
 * 2020
   * University Excellent Graduation Thesis
-
+    
+* 2021-now
+  * The highest grades in each semester evaluation of research work.
+    
 Publication
 ======
   <ul>{% for post in site.publications %}
