@@ -15,7 +15,7 @@ I graduated with a B.S. in Physics from Shanxi University, where I learned under
 
 Postgraduate Education
 ----------------------
-I began my postgraduate studies and research journey in 2021 after achieving the highest score on the admission exam. I was privileged to be part of Group N09 at the renowned Institute of Physic, CAS, where I focused on the growth of in-plane ordered Si/Ge nanowires using molecular beam epitaxy.
+I began my postgraduate studies and research journey in 2021 after achieving the highest score on the admission exam. I was privileged to be part of Group N09 at the renowned Institute of Physics, CAS, where I focused on the growth of in-plane ordered Si/Ge nanowires using molecular beam epitaxy.
 
 In my initial semester of graduate school, I dedicatedly pursued multiple professional courses, achieving an impressive GPA of 3.74. Additionally, I had the opportunity to acquire practical experience in operating STM and MBE combined ultrahigh vacuum systems under the guidance of Prof. Wang Gan from the Southern University of Science and Technology while studying the interfacial superconductivity of iron telluride heterojunctions.
 
