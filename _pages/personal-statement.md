@@ -25,21 +25,21 @@ At the initial stage of the platform construction, I actively participated in ev
 
 After the completion of initial exploratory work and the establishment of sound experimental conditions, I embarked on further research focusing on the following subjects to advance scientific understanding in my field:
 
-  * Comparing the impact of different incorporation and annealing conditions, as well as the presence or absence of a locking layer, on the segregation of P and B and the conductivity of samples.
+  * Comparison of the impact from different incorporation and annealing conditions, as well as the presence or absence of a locking layer, on the segregation of P and B and on the conductivity of samples.
 
-  * Realizing low-temperature homoepitaxy of silicon, aiming at achieving exceptional surface quality and atomic-level flatness.
+  * Realization low-temperature homoepitaxy of silicon, aiming at achieving exceptional surface quality and atomic-level flatness.
 
-  * Conducting thorough verification of conductivity and leakage in tunnel junctions with varying gap widths, aiming to optimize more complex devices' performance.
+  * Rigorous inspection and comparison of the conductivity and leakage in tunnel junctions with varying gap widths, aiming to optimize the performance of more complex devices.
 
-  * Exploring a single electron transistor with highly steady transport properties.
+  * Exploration a single electron transistor with highly steady transport properties.
 
-  * Investigating the properties of a single electron pump with multi-quantum dot transport characteristics.
+  * Studying the properties of a single electron pump with the transport characteristics of multiple quantum dots.
 
-  * Advancing the integration of 3D top electrode alignment techniques, enabling precise energy level control for various devices.
+  * Advancing the alignment technique of 3D top-electrodes integration, enabling the precise control of energy level for various devices.
 
   * Quantum simulation of the SSH model utilizing STM hydrogen lithography technology.
 
-  * Realization experimentally of the critical phase utilizing the silicon-based quantum dot system.
+  * Experimental realization of the critical phase utilizing the silicon-based quantum dot system.
 
 To comprehensively enhance my experimental proficiency, I actively engaged in learning and successfully completed application tests involving various micro- and nano-machinery, such as the step profiler, lithography machine, laser direct writing, and SEM, at the micro and nano machining center.
 
