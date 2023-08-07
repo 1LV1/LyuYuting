@@ -29,7 +29,7 @@ After the completion of initial exploratory work and the establishment of sound 
 
   * Realizing low-temperature homoepitaxy of silicon, aiming at achieving exceptional surface quality and atomic-level flatness.
 
-  * Conducting thorough verification of conductivity and leakage in tunnel junctions with varying gap widths, aiming to optimize more sophisticated devices' performance.
+  * Conducting thorough verification of conductivity and leakage in tunnel junctions with varying gap widths, aiming to optimize more complex devices' performance.
 
   * Exploring a single electron transistor with highly steady transport properties.
 
