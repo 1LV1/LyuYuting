@@ -37,7 +37,7 @@ After the completion of initial exploratory work and the establishment of sound 
 
   * Advancing the alignment technique of 3D top-electrodes integration, enabling the precise control of energy level for various devices.
 
-  * Quantum simulation of the SSH model utilizing STM hydrogen depassivation lithography technology.
+  * Quantum simulation of the SSH model utilizing STM hydrogen depassivation lithography technique.
 
   * Experimental realization of the critical phase utilizing the silicon-based quantum dot system.
 
