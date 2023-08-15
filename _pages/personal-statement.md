@@ -37,11 +37,11 @@ After the completion of initial exploratory work and the establishment of sound 
 
   * Advancing the alignment technique of 3D top-electrodes integration, enabling the precise control of energy level for various devices.
 
-  * Quantum simulation of the SSH model utilizing STM hydrogen depassivation lithography technique.
+  * Quantum simulation of the dynamic AC-driven SSH model utilizing STM hydrogen depassivation lithography technique.
 
   * Experimental realization of the critical phase utilizing the silicon-based quantum dot system.
 
-To comprehensively enhance my experimental proficiency, I actively engaged in learning and successfully completed application tests involving various micro- and nano-machinery, such as the step profiler, lithography machine, laser direct writing system, and SEM, at the micro and nano machining center.
+To comprehensively enhance my experimental proficiency, I actively engaged in learning and successfully completed application tests involving various micro-nano machining equipments, such as the step profiler, lithography machine, laser direct writing system, and SEM.
 
 Additionally, alongside my experimental research, I devoted considerable effort to acquiring and honing my skills in Python programming, enabling calculations for simple quantum mechanics problems. For instance, I successfully calculated the energy spectrum of the static SSH model, a significant model for topological insulators, and further elucidated the quasi-energy spectrum and transport properties of the dynamic AC-driven SSH model. Besides, recent works include completing a chapter on the simulation of one-dimensional spin chains using STM technology in the atomic manufacturing textbook edited by Professor Song Fengqi of Nanjing University. 
 
@@ -50,7 +50,7 @@ Undergraduate Education
 -------------------------------
 In 2016, I was admitted to the School of Mathematical Sciences at Shanxi University, achieving the highest score in the college entrance examination. As an active class committee member, I diligently organized and participated in various student organizations, community activities, and class events. By fostering a positive, optimistic, united, and friendly class culture, I successfully cultivated collective cohesion and established a conducive academic atmosphere for classmates' studies and daily lives. Consequently, I was honored with the title of "Excellent Student Leader."
 
-In the following year, though ranking 4th out of 198 students in the School of Mathematical Sciences, I decided to switch my major to the School of Physical and Electronic Engineering. Then, under the guidance of Prof. Xiao Liantuan, I embarked on an undergraduate scientific research project titled "Real-time Single Molecule Dynamics Information Extraction based on Quantum Coherence Modulation and FPGA."
+In the following year, though ranking 4th out of 198 students in the School of Mathematical Sciences, I decided to switch my major to the School of Physical and Electronic Engineering. Then, under the guidance of Prof. Xiao Liantuan, I embarked on an undergraduate scientific research project titled "Real-time Single Molecule Dynamics Information Extraction Based on Quantum Coherence Modulation and FPGA."
 In August 2018, representing our school, I participated in the 9th China Undergraduate Physics Tournament and achieved the third prize. In September 2018, I participated in the 10th Chinese Mathematics Competitions and earned the second prize. In October 2018, I competed in the National Undergraduate Mathematical Contest in Modeling, clinching the second prize as well.
 
 In March 2019, I was privileged to present an oral report entitled "Laser Medical Image Processing based on Neighborhood Concerned Gaussian Mixture Model" at the 14th National Laser Technology and Optoelectronics Academic Conference and the 2018 Chinese Optical Ten Progress Conference. Meanwhile, I published this paper as the first author. In this research, we proposed a novel approach to laser medical image segmentation utilizing the Neighborhood Concerned Gaussian mixture model, addressing its limitations in terms of segmentation accuracy and noise resistance. In July 2019, I participated in the Provincial Competition of the 16th "Challenge Cup" Undergraduate Extracurricular Academic Science and Technology Work Contest for College Students. Presenting my personal project, I was honored to be awarded the grand prize.
