@@ -52,7 +52,7 @@ Honor & Awards:
     
 * 2019
   * Provincial Outstanding Prize of the 16th "Challenge Cup" Undergraduate Extracurricular Academic Science and Technology Work Contest
-  * National Third Prize of Mathematical Contest in Modeling (MCM)
+  * National Third Prize of Mathematical Contest in Modeling
     
 * 2020
   * University Excellent Graduation Thesis
