@@ -38,7 +38,7 @@ Research experience
   * Theoretical research on Rabi oscillation and Rabi spectrum was carried out, and the graduation thesis completed based on this topic was awarded as the outstanding undergraduate graduation thesis of Shanxi University in 2020.
 
 * 2018-2019:
-  * Independent research on the subject of laser medical image segmentation. Participated in the 14th National Laser Technology and Optoelectronics Academic Conference and the 2018 Chinese Optical Ten Progress Conference and gave an oral report at the conference.
+  * Independent research on the subject of laser medical image segmentation. Participated in the 14th National Conference on Laser Technology and Optoelectronics (LTO 2019) and the Chinese Optical Ten Progress in 2018 and gave an oral report at the conference.
   
 Honor & Awards:
 ======
