@@ -33,7 +33,6 @@ Research experience
   * N09 Semiconductor Quantum Materials and Devices research group
   * Utilizing semiconductor molecular beam epitaxial growth technology, the subject of semiconductor nanodots and nanowires epitaxial growth based on the susaturated infiltrated layer of silicon-germanium substrate had been studied. Meanwhile, the experience and skills for MBE equipment in the heterologous epitaxy of carbon group semiconductors and the controlled nucleation and growth of nanodots and nanowires had been accumulated.
 
-The knowledge has been accumulated.
  
 * 2020:
   * Advisor: Li Weidong
