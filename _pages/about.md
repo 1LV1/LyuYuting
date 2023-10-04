@@ -16,7 +16,7 @@ Advised by PI [He Yu](https://sustech.edu.cn/zh/faculties/heyu.html) from the In
 Research Interests
 ======
 
-Quantum Simulation: Su-Schrieffer-Heeger model, critical phase...
+Quantum Simulation: Su-Schrieffer-Heeger model, Anderson localization, critical phase...
 
 Laboratory Equipment: Variable and low-temperature STM ultrahigh vacuum systems combined with MBE.
 
@@ -29,5 +29,5 @@ You can find my Personal Statement here: [Yuting Lyu's Personal Statement](https
 
 You can contact me with:
   * Tel: +(86) 178-3620-5462
-  * E-mail: [ytlu_sxu@163.com](mailto:ytlu_sxu@163.com)
+  * E-mail: [1ytlyu1@gmail.com](mailto:1ytlyu1@gmail.com)
   * WeChat: physicslyt
