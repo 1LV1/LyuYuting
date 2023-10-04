@@ -16,7 +16,7 @@ Advised by PI [He Yu](https://sustech.edu.cn/zh/faculties/heyu.html) from the In
 Research Interests
 ======
 
-Quantum Simulation: Su-Schrieffer-Heeger model, Anderson localization, critical phase...
+Quantum Simulation: Anderson localization, critical phase, Su-Schrieffer-Heeger model...
 
 Laboratory Equipment: Variable and low-temperature STM ultrahigh vacuum systems combined with MBE.
 
