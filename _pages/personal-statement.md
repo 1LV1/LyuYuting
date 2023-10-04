@@ -31,15 +31,15 @@ After the completion of initial exploratory work and the establishment of sound 
 
   * Rigorous inspection and comparison of the conductivity and leakage in tunnel junctions with varying gap widths, aiming to optimize the performance of more complex devices.
 
-  * Exploration a single electron transistor with highly steady transport properties.
+  * Exploration single-electron transistors (SETs) with highly steady transport properties.
 
-  * Studying the properties of a single electron pump with the transport characteristics of multiple quantum dots.
+  * Studying the properties of single-electron pumps (SEPs) with the transport characteristics of multiple quantum dots.
 
   * Advancing the alignment technique of 3D top-electrodes integration, enabling the precise control of energy level for various devices.
 
   * Quantum simulation of the dynamic AC-driven SSH model utilizing STM hydrogen depassivation lithography technique.
 
-  * Experimental realization of the critical phase utilizing the silicon-based quantum dot system.
+  * Experimental realization of the critical phase utilizing silicon quantum dot systems.
 
 To comprehensively enhance my experimental proficiency, I actively engaged in learning and successfully completed application tests involving various micro-nano machining equipments, such as the step profiler, lithography machine, laser direct writing system, and SEM.
 
