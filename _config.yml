@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuting Lyu / Academic Homepage"
+title                    : "Lyu Yuting / Academic Homepage"
 title_separator          : "-"
-name                     : &name "Yuting Lyu"
-description              : &description "Graduate Student of Institute for Quantum Science and Engineering, Southern University of Science and Technology"
+name                     : &name "Lyu Yuting"
+description              : &description "Knowledge is infinite."
 #https://academicpages.github.io # the base hostname & protocol for your site e.g. 
-url                      : "https://1LV1.github.io"
+url                      : "https://LyuYuting.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "1LV1/1LV1.github.io"
+repository               : "1LV1/LyuYuting.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,9 +81,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuting Lyu   吕宇婷"
+  name             : "Lyu Yuting   吕宇婷"
   avatar           : "photo.png"
-  bio              : "Postgraduate Student of Sustech"
+  bio              : "Knowledge is infinite."
   location         : "Shenzhen, China"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
